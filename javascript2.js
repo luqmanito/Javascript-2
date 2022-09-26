@@ -1,5 +1,5 @@
 
-*TASK 1*
+// *TASK 1*
 
 let words = [`kata 1`, `kata 2`, `kata 3`]
 
@@ -42,7 +42,7 @@ let words = [`kata 1`, `kata 2`, `kata 3`]
 
 
 
-*TASK 2*
+// *TASK 2*
 
 const nama = [
     `Abigail`, `Alexandra`, `Alison`,
@@ -76,7 +76,7 @@ searchName('an', 3, callback)
 
 
 
-*TASK 3*
+// *TASK 3*
 
 function SeleksiNilai(nilaiAwal, nilaiAkhir, dataArray) {
 
